@@ -1,10 +1,10 @@
 {
-  "name" : "proj4-defs",
-  "description" : "Wrapper for all epsg definitions from PostGIS in one easy-to-use file",
+  "name" : "proj4js-defs",
+  "description" : "Wrapper for all epsg definitions from PostGIS for proj4js in one easy-to-use file",
   "version" : "0.0.1",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/yuletide/node-proj4-defs"
+    "url" : "git://github.com/yuletide/node-proj4js-defs"
   },
   "main" : "epsg.js",
   "engines" : {
