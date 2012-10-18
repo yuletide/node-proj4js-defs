@@ -1,0 +1,14 @@
+{
+  "name" : "epsg",
+  "description" : "Wrapper for all epsg definitions from PostGIS in one easy-to-use file",
+  "version" : "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/yuletide/node-epsg"
+  },
+  "main" : "epsg.js",
+  "engines" : {
+    "node" : ">=0.6.x",
+    "npm" : "1.1.x"
+  }
+}
