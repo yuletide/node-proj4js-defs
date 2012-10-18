@@ -1,5 +1,5 @@
 {
-  "name" : "epsg",
+  "name" : "proj4-defs",
   "description" : "Wrapper for all epsg definitions from PostGIS in one easy-to-use file",
   "version" : "0.0.1",
   "repository" : {
