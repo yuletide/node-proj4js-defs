@@ -4,7 +4,7 @@
   "version" : "0.0.1",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/yuletide/node-epsg"
+    "url" : "git://github.com/yuletide/node-proj4-defs"
   },
   "main" : "epsg.js",
   "engines" : {
