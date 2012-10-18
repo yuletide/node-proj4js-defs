@@ -13,5 +13,8 @@
   },
   "dependencies" : {
     "proj4js" : "~0.3.0"
-  }
+  },
+  "keywords" : [
+    "geo", "proj4", "proj4js", "projections"
+  ]
 }
