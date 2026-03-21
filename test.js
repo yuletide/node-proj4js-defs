@@ -11,6 +11,7 @@ var Proj4js = { defs: {} };
 epsg(Proj4js);
 var keys = Object.keys(Proj4js.defs);
 assert(keys.length > 0, 'should have added EPSG definitions');
+assert.equal(keys.length, 8498, 'should have exactly 8498 EPSG definitions, got ' + keys.length);
 console.log('Loaded ' + keys.length + ' EPSG definitions');
 
 // Test 3: check some well-known projections are present
