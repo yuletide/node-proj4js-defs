@@ -1,3 +1,5 @@
+
+
 node-epsg
 =========
 
@@ -16,8 +18,7 @@ Usage
 ========
 
     var proj4 = require('proj4js');
-    require('epsg')(proj4);
+    require('proj4js-defs')(proj4);
     
     // check out all your new defs!
     console.log(proj4.defs);
-
